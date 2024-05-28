@@ -1,0 +1,95 @@
+body{
+    background-image: url(Resturant.jpg);
+    background-size: cover;
+    
+}
+
+#nav{
+    text-align: right;
+    margin-right: 20px;
+    
+}
+
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+a:hover{
+    background-color: red;
+    
+}
+
+p{
+    color: white;
+    text-align: center;
+    margin-top: 95px;
+    font-size: 25px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+
+}
+
+input{
+    margin-left: 38%;
+    height: 30px;
+    width: 350px;
+}
+
+input:hover{
+    background-color: black;
+    color: aqua;
+}
+
+button{
+    background-color: red;
+    color: white;
+    margin-left: 47%;
+    margin-top: 2%;
+    height: 30px;
+    width: 80px;
+    
+}
+
+footer{
+    background-color: black;
+    margin-top: 35%;
+    height: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button:hover{
+    border: 3px solid white;
+    width: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
